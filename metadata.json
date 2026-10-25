@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Wallpaper Pro",
+  "description": "Premium 4K gaming wallpapers across Battle Royale, Cars, Anime, Nature, Neon, and Abstract styles. Features wallpaper setting, device downloads, favorites, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
